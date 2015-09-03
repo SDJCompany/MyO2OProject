@@ -17,6 +17,10 @@ public class MainActivity extends Activity {
 		
 		
 		//영희가 수정했어요
+		
+		//======== 동진이가 수정했어요 : 123456
+		
+		
 	}
 
 	
