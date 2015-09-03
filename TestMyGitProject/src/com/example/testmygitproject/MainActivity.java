@@ -14,6 +14,10 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		
 		Button callB = (Button) findViewById(R.id.callBut);
+		
+		//======== 동진이가 수정했어요 : 123456
+		
+		
 	}
 
 	
