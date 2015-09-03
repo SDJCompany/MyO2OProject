@@ -11,15 +11,15 @@
     tools:context="com.example.testmygitproject.MainActivity" >
 
     <Button
-        android:id="@+id/button1"
+        android:id="@+id/callBut"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="CallBut1" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/testBut"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="Test Button" />
 
 </LinearLayout>
