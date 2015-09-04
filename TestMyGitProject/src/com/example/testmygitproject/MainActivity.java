@@ -20,6 +20,8 @@ public class MainActivity extends Activity {
 		
 		//======== 동진이가 수정했어요 : 123456
 		
+		//Hello TEst......
+		
 		
 	}
 
